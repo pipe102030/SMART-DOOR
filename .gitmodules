@@ -1,0 +1,3 @@
+[submodule "skill-SMART-DOOR"]
+	path = skill-SMART-DOOR
+	url = https://github.com/pipe102030/SMART-DOOR.git
